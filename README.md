@@ -19,7 +19,7 @@ Hide any application windows while allowing them to continue running in the back
 使用方法
 1. 启动
    
-运行 WinHide，程序会最小化到右下角托盘，需要右键托盘图标显示。
+运行 WinHide，程序会最小化到右下角托盘，需要右键托盘图标显示。（该程序窗口关闭按钮默认为隐藏到托盘，如需关闭程序，请右键托盘图标退出）
 
 2. 捕捉窗口
    
